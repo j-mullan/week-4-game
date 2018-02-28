@@ -1,0 +1,25 @@
+/*
+################
+      Week 4 Crystal Game 
+################
+*/
+
+body {
+  background-image: url("../images/round.png");
+}
+
+div {
+  display: block;
+  color: azure;
+  background-color: black;
+  width: 40%;
+  border: 10px;
+  border-radius: 15px;
+  padding: 50px;
+}
+
+h1 {
+  color: black;
+  font-size: 40;
+  text-align: center;
+}
